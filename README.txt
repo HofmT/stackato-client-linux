@@ -16,16 +16,8 @@ Usage
 Client Installation
 -------------------
 
-  * Unpack the archive
-
-  * Move the executable to directory in your $PATH or,
-    create a symlink to it from a directory already in your $PATH or,
-    create an alias in your shell 
-
-  * For Linux or Mac OS X, Make sure the execution bit is set:
-       chmod +x stackato
-    On some systems read access is also necessary:
-       chmod 755 stackato
+git clone https://github.com/HofmT/stackato-client-linux.git
+export PATH=$PATH:/pathToStackato/
 
 Links
 -----
