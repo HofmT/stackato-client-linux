@@ -7,6 +7,8 @@ You can use this client to push application code to any Cloud Foundry
 system, start and stop applications, create data services or link them
 to applications, and perform a number of other management operations.
 
+For further questions refer to: 
+
 Usage
 -----
 
