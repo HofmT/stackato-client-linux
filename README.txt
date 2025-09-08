@@ -5,7 +5,10 @@ The 'stackato' client is a command-line interface to Helion Stackato.
 
 You can use this client to push application code to any Cloud Foundry
 system, start and stop applications, create data services or link them
-to applications, and perform a number of other management operations.
+to applications, and perform a number of other management operations.sax
+sxaxsc
+
+For further questions refer to: 
 
 Usage
 -----
